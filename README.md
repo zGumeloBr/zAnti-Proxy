@@ -26,4 +26,4 @@
 
 # Como utilizar
 
-`root@server:~# teste`
+<code>root@server:~# teste</code>
