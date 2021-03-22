@@ -26,4 +26,6 @@
 
 # Como utilizar
 
-<code>root@server:~# teste</code>
+<pre>
+  <code>root@server:~# teste</code>
+</pre>
