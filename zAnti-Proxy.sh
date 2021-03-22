@@ -1,5 +1,11 @@
 #!/bin/bash
 
+#
+#
+# Criado por zGumeloBr
+#
+#
+
 #Verificar se o script vai ser executado em root ou não.
 
 if [[ $EUID -ne 0 ]]; then
@@ -75,10 +81,10 @@ clear
 
 echo ""
 echo ""
-echo -e "\033[1;34m ____  ___  _   _  ____  ____  __    ____\033[0m"  
-echo -e "\033[1;34m(_   )/ __)( )_( )(_  _)( ___)(  )  (  _ \ \033[0m" 
-echo -e "\033[1;34m / /_ \__ \ ) _ (  _)(_  )__)  )(__  )(_) )\033[0m"
-echo -e "\033[1;34m(____)(___/(_) (_)(____)(____)(____)(____/ \033[0m"
+echo -e "\033[1;34m ____    __    _  _  ____  ____      ____  ____  _____  _  _  _  _\033[0m"  
+echo -e "\033[1;34m(_   )  /__\  ( \( )(_  _)(_  _)    (  _ \(  _ \(  _  )( \/ )( \/ )\033[0m" 
+echo -e "\033[1;34m / /_  /(  )\  )  (   )(   _)(_      )___/ )   / )(_)(  )  (  \  / \033[0m"
+echo -e "\033[1;34m(____)(__)(__)(_)\_) (__) (____)    (__)  (_)\_)(_____)(_/\_) (__) \033[0m"
 echo ""
 echo -e "\033[0;37m❖ Proxys bloqueadas com sucesso! Lembre-se de sempre re-ativar\033[0m"
 echo -e "\033[0;37messa proteção para atualizar as lista de proxys bloqueadas. \033[0m"
