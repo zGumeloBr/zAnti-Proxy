@@ -8,7 +8,7 @@
 
 # Funcionamento
 
-📡 Nosso script funciona com dois sistemas que chamamos de `MPB e APB`que fazem a coleta de grandes quantidades de proxys, disponibilizadas por sites de terceiros, mas como esses sistemas funcionam ? Leia a baixo a rápida explicação deles:
+📡 Nosso script funciona com dois sistemas que chamamos de `MPB e APB` que realizam a coleta de grandes quantidades de proxys, disponibilizadas por sites de terceiros, mas como esses sistemas funcionam ? Leia a baixo a rápida explicação deles:
 
 **❖ APB (Automatic Proxy Blocker):**
 
