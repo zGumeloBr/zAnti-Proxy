@@ -18,6 +18,12 @@ O APB funciona coletando autoamticamente proxys de sistes como `ProxyScraper, Gi
 
 O MPB consiste em uma forma de coleta de proxys manual realizada por nossos desenvolvedores, que a cada 24H realizam uma coleta rigorosa de proxys que não podem se obitidas e forma automaticas automatica, assim nosso script sempre que iniciado irá fazer a copia das proxys coletadas e bloquar respectivamente elas.
 
+# Módulos adicionais
+
+Modulos adicionais que são opcionais na hora da instalação do script.
+
+**Azure Blocker: https://github.com/zGumeloBr/zPF-Azure-Module** 
+
 # Sistemas compatíveis
 
 | Sistemas | Versões | Compatibilidade |
@@ -39,7 +45,15 @@ O MPB consiste em uma forma de coleta de proxys manual realizada por nossos dese
 </pre>
 
 <pre>
-  <code>root@server:~# sh zProxyFilter.sh</code>
+  <code>root@server:~# cd zProxyFilter</code>
+</pre>
+
+<pre>
+  <code>root@server:~# chmod +x zProxyFilter.sh</code>
+</pre>
+
+<pre>
+  <code>root@server:~# ./zProxyFilter.sh</code>
 </pre>
 
 # Contato
